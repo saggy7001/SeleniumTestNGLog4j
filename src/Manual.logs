@@ -1,0 +1,50 @@
+26/10/2016 17:16:18 FirstTestNGFile @BeforeClass
+26/10/2016 17:17:04 FirstTestNGFile new FirefoxDriver()
+26/10/2016 17:17:21 FirstTestNGFile Open 'http://demo.nopcommerce.com/' 
+26/10/2016 17:17:22 FirstTestNGFile @BeforeTest
+26/10/2016 17:17:25 FirstTestNGFile driver.findElement(By.xpath('html/body/div[5]/div[1]/div[1]/div[2]/div[1]/ul/li[2]/a')).click();
+26/10/2016 17:17:29 FirstTestNGFile driver.findElement(By.xpath('.//*[@id='Email']')).sendKeys('test123@gmail.com');
+26/10/2016 17:17:30 FirstTestNGFile driver.findElement(By.xpath('.//*[@id='Password']')).sendKeys('test@123');
+26/10/2016 17:17:34 FirstTestNGFile Click on Login Button
+26/10/2016 17:17:34 FirstTestNGFile Check for login status
+26/10/2016 17:17:49 FirstTestNGFile Login Successfully, User is Avilable
+26/10/2016 17:17:49 FirstTestNGFile driver.findElement(By.xpath('html/body/div[5]/div[1]/div[1]/div[2]/div[1]/ul/li[2]/a'));
+26/10/2016 17:17:49 FirstTestNGFile @Test:- Test adidasShoes
+26/10/2016 17:17:51 FirstTestNGFile Go to Home
+26/10/2016 17:17:55 FirstTestNGFile Click on Apparel -> Shoes
+26/10/2016 17:17:58 FirstTestNGFile Open adidas Consortium Campus 80s Running Shoes
+26/10/2016 17:17:58 FirstTestNGFile @AfterTest
+26/10/2016 17:18:04 FirstTestNGFile Go to user profile
+26/10/2016 17:18:06 FirstTestNGFile Click on LogOut
+26/10/2016 17:18:06 FirstTestNGFile @BeforeTest
+26/10/2016 17:18:10 FirstTestNGFile driver.findElement(By.xpath('html/body/div[5]/div[1]/div[1]/div[2]/div[1]/ul/li[2]/a')).click();
+26/10/2016 17:18:11 FirstTestNGFile driver.findElement(By.xpath('.//*[@id='Email']')).sendKeys('test123@gmail.com');
+26/10/2016 17:18:11 FirstTestNGFile driver.findElement(By.xpath('.//*[@id='Password']')).sendKeys('test@123');
+26/10/2016 17:18:14 FirstTestNGFile Click on Login Button
+26/10/2016 17:18:14 FirstTestNGFile Check for login status
+26/10/2016 17:18:29 FirstTestNGFile Login Successfully, User is Avilable
+26/10/2016 17:18:30 FirstTestNGFile driver.findElement(By.xpath('html/body/div[5]/div[1]/div[1]/div[2]/div[1]/ul/li[2]/a'));
+26/10/2016 17:18:30 FirstTestNGFile @Test:- Test cell-phones
+26/10/2016 17:18:31 FirstTestNGFile Go to Home
+26/10/2016 17:18:36 FirstTestNGFile Click on Electronics -> Cell phones
+26/10/2016 17:18:39 FirstTestNGFile Open Mobile Nokia Lumia 1020
+26/10/2016 17:18:39 FirstTestNGFile @AfterTest
+26/10/2016 17:18:41 FirstTestNGFile Go to user profile
+26/10/2016 17:18:43 FirstTestNGFile Click on LogOut
+26/10/2016 17:18:43 FirstTestNGFile @BeforeTest
+26/10/2016 17:18:46 FirstTestNGFile driver.findElement(By.xpath('html/body/div[5]/div[1]/div[1]/div[2]/div[1]/ul/li[2]/a')).click();
+26/10/2016 17:18:48 FirstTestNGFile driver.findElement(By.xpath('.//*[@id='Email']')).sendKeys('test123@gmail.com');
+26/10/2016 17:18:48 FirstTestNGFile driver.findElement(By.xpath('.//*[@id='Password']')).sendKeys('test@123');
+26/10/2016 17:18:51 FirstTestNGFile Click on Login Button
+26/10/2016 17:18:51 FirstTestNGFile Check for login status
+26/10/2016 17:19:07 FirstTestNGFile Login Successfully, User is Avilable
+26/10/2016 17:19:07 FirstTestNGFile driver.findElement(By.xpath('html/body/div[5]/div[1]/div[1]/div[2]/div[1]/ul/li[2]/a'));
+26/10/2016 17:19:07 FirstTestNGFile @Test:- Test OpenSoftware
+26/10/2016 17:19:08 FirstTestNGFile Go to Home
+26/10/2016 17:19:11 FirstTestNGFile Click on Computers -> Software
+26/10/2016 17:19:14 FirstTestNGFile Open Windows 8 Pro Software item
+26/10/2016 17:19:14 FirstTestNGFile @AfterTest
+26/10/2016 17:19:17 FirstTestNGFile Go to user profile
+26/10/2016 17:19:20 FirstTestNGFile Click on LogOut
+26/10/2016 17:19:20 FirstTestNGFile  @AfterClass
+26/10/2016 17:19:22 FirstTestNGFile Close Firefox

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="183774" started-at="2016-10-26T11:46:18Z" finished-at="2016-10-26T11:49:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="183774" started-at="2016-10-26T11:46:18Z" finished-at="2016-10-26T11:49:22Z">
+      <class name="FirstPackage.FirstTestNGFile">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:FirstPackage.FirstTestNGFile@6fc6f14e]" name="beforeClass" is-config="true" duration-ms="63242" started-at="2016-10-26T17:16:18Z" finished-at="2016-10-26T17:17:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:FirstPackage.FirstTestNGFile@6fc6f14e]" name="beforeMethod" is-config="true" duration-ms="27520" started-at="2016-10-26T17:17:22Z" finished-at="2016-10-26T17:17:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="adidasShoes()[pri:1, instance:FirstPackage.FirstTestNGFile@6fc6f14e]" name="adidasShoes" duration-ms="8834" started-at="2016-10-26T17:17:49Z" finished-at="2016-10-26T17:17:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adidasShoes -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:FirstPackage.FirstTestNGFile@6fc6f14e]" name="afterMethod" is-config="true" duration-ms="7856" started-at="2016-10-26T17:17:58Z" finished-at="2016-10-26T17:18:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:FirstPackage.FirstTestNGFile@6fc6f14e]" name="beforeMethod" is-config="true" duration-ms="24109" started-at="2016-10-26T17:18:06Z" finished-at="2016-10-26T17:18:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="CellPhones()[pri:2, instance:FirstPackage.FirstTestNGFile@6fc6f14e]" name="CellPhones" duration-ms="8792" started-at="2016-10-26T17:18:30Z" finished-at="2016-10-26T17:18:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CellPhones -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:FirstPackage.FirstTestNGFile@6fc6f14e]" name="afterMethod" is-config="true" duration-ms="4396" started-at="2016-10-26T17:18:39Z" finished-at="2016-10-26T17:18:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:FirstPackage.FirstTestNGFile@6fc6f14e]" name="beforeMethod" is-config="true" duration-ms="24208" started-at="2016-10-26T17:18:43Z" finished-at="2016-10-26T17:19:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="OpenSoftware()[pri:3, instance:FirstPackage.FirstTestNGFile@6fc6f14e]" name="OpenSoftware" duration-ms="6963" started-at="2016-10-26T17:19:07Z" finished-at="2016-10-26T17:19:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenSoftware -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:FirstPackage.FirstTestNGFile@6fc6f14e]" name="afterMethod" is-config="true" duration-ms="5574" started-at="2016-10-26T17:19:14Z" finished-at="2016-10-26T17:19:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:FirstPackage.FirstTestNGFile@6fc6f14e]" name="afterClass" is-config="true" duration-ms="2041" started-at="2016-10-26T17:19:20Z" finished-at="2016-10-26T17:19:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- FirstPackage.FirstTestNGFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
